@@ -1,0 +1,23 @@
+---
+title: "Resources"
+description: |
+  Here are additional resources that we have found helpful as you start implement non-traditional grading systems
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Getting started
+
+
+
+## Examples
+
+
+## General discussion
+
+- [Grading for Growth blog](https://gradingforgrowth.com)
+
+- [The grading conference](https://thegradingconference.com)

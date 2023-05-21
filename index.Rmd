@@ -1,0 +1,83 @@
+---
+title: "Non-traditional grading"
+author:
+- name: Brenna Curley
+  affiliation: Morovian University
+- name: Adam Loy
+  affiliation: Carleton College
+- name: Eric Reyes
+  affiliation: Rose-Hulman Institute of Technology
+date: "`r Sys.Date()`"
+
+description: |
+  A different way to communicate progress
+  
+  🗓️June 1, 2023\
+  ⏰ 01:00 pm – 4:30 pm\
+  🏨 Room 108 
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+## Overview
+
+Traditional grading schemes award points on each assignment and course grades are determined through a weighted average of those points. This can lead to students asking questions like “what do I need to do to get an A in this course?” when we really want students to focus on the learning and not the points. Non-traditional grading seeks to redefine the relationship between grading and learning by realigning grades with course activities. In this workshop, we will discuss the key components of non-traditional grading schemes and provide participants with a foundation for implementing a non-traditional system in their course.  
+
+By the end of the workshop, participants will be able to:
+
+- Articulate the key characteristics of non-traditional grading systems.
+- Identify hurdles students and faculty may encounter with non-traditional grading systems.
+- Practice writing measurable learning outcomes for one topic of a course or specifications for one assignment.
+- Make significant progress toward the construction of a system for one of their courses (or assignments) via a scaffolded interactive activity
+
+
+## Prework
+
+Participants will want to bring a current syllabus and example assignments from a course they would like to discuss. This will be helpful for converting current materials to a non-traditional framework. This could be electronic (encouraged to bring a tablet or laptop) or a hard copy they prefer to markup.
+
+No prior knowledge is necessary; however, participants will benefit from having identified a particular course they would like to focus on during the workshop.
+
+
+## Schedule
+
+| Time          | Activity                                              |
+|:--------------|:------------------------------------------------------|
+| 01:00 - 01:45 |  Introduction and overview |
+| 01:45 - 02:45 | Writing measurable goals |
+| 02:45 - 03:15 |   |
+| 03:30 - 13:30 | *Coffee break*                                         |
+| times | Activity                              |
+| times | Activity                                            |
+| times | |
+
+
+## Materials
+
+### Slides
+
+- [Slide deck for the day](URL)
+
+### Guides
+
+- Activity handout
+
+- Any templates, etc.
+
+
+## Acknowledgments {.appendix}
+
+We thank...
+
+
+This is a website made with the [distill package](https://rstudio.github.io/distill/).
