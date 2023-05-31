@@ -1,8 +1,8 @@
 ---
-title: "Non-traditional grading"
+title: "Non-traditional grading workshop"
 author:
 - name: Brenna Curley
-  affiliation: Morovian University
+  affiliation: Moravian University
 - name: Adam Loy
   affiliation: Carleton College
 - name: Eric Reyes
@@ -34,31 +34,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Traditional grading schemes award points on each assignment and course grades are determined through a weighted average of those points. This can lead to students asking questions like “what do I need to do to get an A in this course?” when we really want students to focus on the learning and not the points. Non-traditional grading seeks to redefine the relationship between grading and learning by realigning grades with course activities. In this workshop, we will discuss the key components of non-traditional grading schemes and provide participants with a foundation for implementing a non-traditional system in their course.  
 
-By the end of the workshop, participants will be able to:
+By the end of the workshop, you will be able to (or have):
 
 - Articulate the key characteristics of non-traditional grading systems.
-- Identify hurdles students and faculty may encounter with non-traditional grading systems.
+- Identify hurdles students and you may encounter with non-traditional grading systems.
 - Practice writing measurable learning outcomes for one topic of a course or specifications for one assignment.
 - Make significant progress toward the construction of a system for one of their courses (or assignments) via a scaffolded interactive activity
 
 
 ## Prework
 
-Participants will want to bring a current syllabus and example assignments from a course they would like to discuss. This will be helpful for converting current materials to a non-traditional framework. This could be electronic (encouraged to bring a tablet or laptop) or a hard copy they prefer to markup.
+Please bring a current syllabus and example assignments from a course that you would like to discuss. This will be helpful for converting current materials to a non-traditional framework. This could be electronic (encouraged to bring a tablet or laptop) or a hard copy to markup.
 
-No prior knowledge is necessary; however, participants will benefit from having identified a particular course they would like to focus on during the workshop.
+No prior knowledge is necessary; however, you will benefit from having identified a particular course you would like to focus on during the workshop.
 
 
-## Schedule
+## Tentative schedule
 
-| Time          | Activity                                              |
+| Time          | Activity                   |
 |:--------------|:---------------------------|
 | 1:00 - 1:45 | Introduction and overview    |
-| 1:45 - 2:45 | Writing measurable goals     |
-| 2:45 - 3:00 | *Break*                      |
-| 3:00 - 3:15 | Reflection on writing goals  |
-| 3:15 - 3:45 | Building a syllabus          |
-| X:XX - 4:30 | Concluding Q&A?              |
+| 1:45 - 2:30 | Writing measurable goals     |
+| 2:30 - 3:00 | *Break!*                     |
+| 3:00 - 4:15 | Building a syllabus          |
+| 4:15 - 4:30 | Wrap up                      |
 
 
 ## Materials
