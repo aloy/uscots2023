@@ -52,27 +52,27 @@ No prior knowledge is necessary; however, participants will benefit from having 
 ## Schedule
 
 | Time          | Activity                                              |
-|:--------------|:------------------------------------------------------|
-| 01:00 - 01:45 |  Introduction and overview |
-| 01:45 - 02:45 | Writing measurable goals |
-| 02:45 - 03:15 |   |
-| 03:30 - 13:30 | *Coffee break*                                         |
-| times | Activity                              |
-| times | Activity                                            |
-| times | |
+|:--------------|:---------------------------|
+| 1:00 - 1:45 | Introduction and overview    |
+| 1:45 - 2:45 | Writing measurable goals     |
+| 2:45 - 3:00 | *Break*                      |
+| 3:00 - 3:15 | Reflection on writing goals  |
+| 3:15 - 3:45 | Building a syllabus          |
+| X:XX - 4:30 | Concluding Q&A?              |
 
 
 ## Materials
 
-### Slides
+- [Slide deck](URL)
 
-- [Slide deck for the day](URL)
+- [Collaborative notes](https://docs.google.com/document/d/1idEmD_AlrCxymtkbdfGDUuRu7YvUwv3cw3rp48DxZ5I/edit?usp=sharing)
 
-### Guides
+- Worksheets
 
-- Activity handout
+    + [Assesing Student Work](handouts/USCOTS23 Assesing Student Work Worksheet.pdf)
+    + [ Building a Syllabus](handouts/USCOTS23 Building Syllabus Worksheet.pdf)
 
-- Any templates, etc.
+
 
 
 ## Acknowledgments {.appendix}

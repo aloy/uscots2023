@@ -11,9 +11,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Getting started
 
+- [Alternative grading practices: An entry point for faculty in competency‐based education](https://doi.org/10.1002/cbe2.1219)
+- [Eric's overview of specifications grading blog post](https://stattlc.com/2021/02/04/specifications-grading-an-overview/) and [example blog post](https://stattlc.com/2021/03/25/specifications-grading-an-example/)
+- [Eric's specification grading website](https://reyesem.github.io/specsgrading.html)
 
 
 ## Examples
+
+### Standards-based grading
+
+-  [Implementing mastery-based grading at scale in introductory statistics](https://doi.org/10.1080/10511970.2019.1700576)
+- [Applying a Standards-Based Grading Framework Across Lower Level Mathematics Courses](https://doi.org/10.1080/10511970.2019.1674430)
+- [Standards-based Grading in an Introduction to Abstract Mathematics Course](https://doi.org/10.1080/10511970.2017.1408044)
+- [Standards-based grading in introductory university physics by Ian Beatty](https://scholarworks.iu.edu/journals/index.php/josotl/article/view/3264/3382)
+- [Standards-Based Grading in a Thermodynamics course](https://www.learntechlib.org/p/207334/)
+
+### Specification grading
+
+- [Simple Specifications Grading by Sylvia Carlisle](https://doi.org/10.1080/10511970.2019.1695238)
+- [Specifications grading: Restoring rigor, motivating students, and saving faculty time](URL) has non-statistics examples
+
+### Ungrading
+
 
 
 ## General discussion
