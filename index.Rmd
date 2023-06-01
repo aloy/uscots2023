@@ -76,7 +76,7 @@ No prior knowledge is necessary; however, you will benefit from having identifie
 
 ## Acknowledgments {.appendix}
 
-We thank...
+We thank Jillian Downey and Katherine Kinnaird for participating in last year's JSM panel on Non-traditional grading. The discussions leading up to and continuing after that panel have been extremely helpful as we continue to think about grading systems.
 
 
 This is a website made with the [distill package](https://rstudio.github.io/distill/).
