@@ -62,7 +62,7 @@ No prior knowledge is necessary; however, you will benefit from having identifie
 
 ## Materials
 
-- [Slide deck](URL)
+- [Slide deck](handouts/USCOTS23 Slides.pdf)
 
 - [Collaborative notes](https://docs.google.com/document/d/1idEmD_AlrCxymtkbdfGDUuRu7YvUwv3cw3rp48DxZ5I/edit?usp=sharing)
 
