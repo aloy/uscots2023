@@ -67,7 +67,7 @@ No prior knowledge is necessary; however, you will benefit from having identifie
 - [Collaborative notes](https://docs.google.com/document/d/1idEmD_AlrCxymtkbdfGDUuRu7YvUwv3cw3rp48DxZ5I/edit?usp=sharing)
 
 - Worksheets
-    + [Writing Learning Outcomes](handouts/USCOTS23 SLO Worksheets)
+    + [Writing Learning Outcomes](handouts/USCOTS23 SLO Worksheets.pdf)
     + [Assesing Student Work](handouts/USCOTS23 Assesing Student Work Worksheet.pdf)
     + [ Building a Syllabus](handouts/USCOTS23 Building Syllabus Worksheet.pdf)
 
